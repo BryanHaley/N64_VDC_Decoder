@@ -1,0 +1,13 @@
+# DESCRIPTION: Verilator output: Timestamp data for --skip-identical.  Delete at will.
+C "-Wall -cc N64_VDC_Decoder.v"
+S   5196576 10696879  1595118220           0  1594473408           0 "/usr/local/Cellar/verilator/4.038/bin/verilator_bin"
+S      1312 10694568  1595118865           0  1595118865           0 "N64_VDC_Decoder.v"
+T      7149 10697114  1595118932           0  1595118932           0 "obj_dir/VN64_VDC_Decoder.cpp"
+T      3158 10697112  1595118932           0  1595118932           0 "obj_dir/VN64_VDC_Decoder.h"
+T      1506 10697116  1595118932           0  1595118932           0 "obj_dir/VN64_VDC_Decoder.mk"
+T      2303 10697113  1595118932           0  1595118932           0 "obj_dir/VN64_VDC_Decoder__Slow.cpp"
+T       589 10697110  1595118932           0  1595118932           0 "obj_dir/VN64_VDC_Decoder__Syms.cpp"
+T       851 10697111  1595118932           0  1595118932           0 "obj_dir/VN64_VDC_Decoder__Syms.h"
+T       381 10697117  1595118932           0  1595118932           0 "obj_dir/VN64_VDC_Decoder__ver.d"
+T         0        0  1595118932           0  1595118932           0 "obj_dir/VN64_VDC_Decoder__verFiles.dat"
+T      1586 10697115  1595118932           0  1595118932           0 "obj_dir/VN64_VDC_Decoder_classes.mk"
